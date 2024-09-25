@@ -1,0 +1,9 @@
+Machine Learning Models Links :
+    https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/
+    https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/
+    https://www.geeksforgeeks.org/prediction-of-wine-type-using-deep-learning
+    https://www.geeksforgeeks.org/parkinson-disease-prediction-using-machine-learning-python/
+    https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-logistic-regression/
+    https://www.geeksforgeeks.org/ml-cancer-cell-classification-using-scikit-learn/
+    https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-knn/
+    https://www.geeksforgeeks.org/autism-prediction-using-machine-learning/
