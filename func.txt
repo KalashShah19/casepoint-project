@@ -1,0 +1,16 @@
+chatbot - autoreply, wait for response of dr, respond to normal queries
+notifications - water, medicine, appointment, dr available, 
+AI - charts, dr suggestion, food suggestions, recipes, excercises, dr near me
+appointment - scheduling, waiting time, update waiting time, ask basic info and prior diseases or treatments
+analysis - charts, timing, patents, revenue, diseases, dr reviews
+doorstep - blood sampling, test results, 
+test results - show online, status, past records, diseases
+
+favourite dr
+search based on dr or diseases or location or id
+search medical shops and medicines based on rates or loactions
+
+users 
+    admin
+    dr - name, reviews, degree, certifications, no of patents, experience, speciatlity, availablilty, desc, age, success rate
+    patents - name, age, mediclaims and insurance
